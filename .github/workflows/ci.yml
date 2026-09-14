@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - 1.11-dev
+      - 1.12-dev
   pull_request:
     branches:
       - master
